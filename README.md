@@ -6,5 +6,5 @@ Foi utilizado expo para testar o projeto.
 
 # Comandos
 
-npm install
-expo start
+npm install;
+expo start;
